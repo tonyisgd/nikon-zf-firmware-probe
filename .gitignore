@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.bin
+*.dec
+*_tables.json
